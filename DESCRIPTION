@@ -1,0 +1,20 @@
+Package: gapminderExplore
+Title: Tools for Exploring Global Development Trends Using Gapminder Data
+Version: 0.1.0\
+Authors@R: c(
+  person("Omar", "Eltannir")
+Date: 2025-11-30
+Description: The Gapminder package gives users the ability to explore, summarize and visualize indicators for the world's development, sourced from the Gapminder database. This package allows you to filter countries by selected criteria as well as identify trends in life expectancy and compare GDP per capita among regional areas. Users can also produce ready-to-publish graphics. This tool is particularly helpful for those studying global development over time - such as students, academic researchers, and data analysts.
+Depends: R (>= 3.1.2)
+Imports:
+  ggplot2,
+  dplyr,
+  tidyr
+LazyData: true
+License: MIT + file LICENSE
+URL: https://github.com/omartannir123-byte/Friedman-
+BugReports: https://github.com/omartannir123-byte/Friedman-/issues
+Suggests:
+  testthat,
+  knitr
+  VignetteBuilder: knitr
