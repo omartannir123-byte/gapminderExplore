@@ -12,8 +12,8 @@ Imports:
   tidyr
 LazyData: true
 License: MIT + file LICENSE
-URL: https://github.com/omartannir123-byte/Friedman-
-BugReports: https://github.com/omartannir123-byte/Friedman-/issues
+URL: https://github.com/omartannir123-byte/gapminderExplore
+BugReports: https://github.com/omartannir123-byte/gapminderExplore/issues
 Suggests:
   testthat,
   knitr
