@@ -1,4 +1,4 @@
-# gapminderExplore
+
 # gapminderExplore <img src="man/figures/logo.png" align="right" height="140"/>
 
 Tools for filtering, summarizing, and visualizing the Gapminder dataset.
