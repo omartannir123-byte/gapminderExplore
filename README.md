@@ -7,7 +7,7 @@ Tools for filtering, summarizing, and visualizing the Gapminder dataset.
 
 ## Overview
 
-gapminderExplore provides users with tools for analyzing and visualizing findings from the Gapminder dataset, and my goal is to enhance your ability to create powerful visualizations and analyses from your dataset using R. I have included many useful functions within the gapminderExplore package, including those for filtering countries, summarizing life expectancy, exploring GDP per capita trends. The gapminderExplore package was created to serve as a project demonstrating package development, documentation, and S3 vs. S4 methods.
+gapminderExplore provides users with tools for analyzing and visualizing findings from the Gapminder dataset, and my goal is to enhance your ability to create powerful visualizations and analyses from your dataset using R. I have included many useful functions within the gapminderExplore package, including those for filtering countries, summarizing life expectancy, and exploring GDP per capita trends. The gapminderExplore package was created to serve as a project demonstrating package development, documentation, and S3 vs. S4 methods.
 
 ---
 
